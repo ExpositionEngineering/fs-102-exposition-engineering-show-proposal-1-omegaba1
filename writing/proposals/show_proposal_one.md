@@ -30,10 +30,10 @@ TODO: I adhered to the Allegheny College honor code while completing this projec
 instructor will not know that you adhered to the Allegheny College Honor Code
 while completing the project.
 
-## 🏁 " Quick Arabic" will delve into the experince of learning arabic in an immersive setting 
+## 🏁 " Quick Arabic" will delve into the experince of learning arabic in an immersive setting
 
 TODO: Provide a compelling sentence that summarizes and pitches your podcast
-episode.
+episode. hello
 
 ## 🔬 Show Details
 
