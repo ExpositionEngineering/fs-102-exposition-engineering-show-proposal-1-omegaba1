@@ -18,11 +18,11 @@
 
 <!---toc end-->
 
-## Add Your Name Here
+## Omega Ba 
 
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
 
-TODO: You must retype the sentence here in order to digitally sign your pledge.
+TODO: I adhered to the Allegheny College honor code while completing this project.
 
 
 
@@ -30,7 +30,7 @@ TODO: You must retype the sentence here in order to digitally sign your pledge.
 instructor will not know that you adhered to the Allegheny College Honor Code
 while completing the project.
 
-## 🏁 One Sentence Pitch
+## 🏁 " Quick Arabic" will delve into the experince of learning arabic in an immersive setting 
 
 TODO: Provide a compelling sentence that summarizes and pitches your podcast
 episode.
@@ -42,9 +42,10 @@ TODO: Provide all of the required details for your podcast episode.
 TODO: Make sure that your title follows the format `[Name of Guest] on [Name of
 Topic]`.
 
-- **Title**:
-- **Host**:
-- **Guest**:
+- **Title**: Quick Arabic
+- **Host**: Omega Ba
+- **Guest**: An Arabic student who lives in an arabic speaking enviornment 
+- **Guest**: An Arabic student who doesnt live in an arabic speaking enviornment.
 
 ## 📝 Show Objectives
 
@@ -72,8 +73,14 @@ the stated objectives for the podcast episode.
 
 ## 🎉 Show Description
 
-TODO: Write at least three to five paragraphs that describe the content of the
-episode, ensuring that the description is both engaging and informative.
+TODO: Step into the fascinating world of language learning with "Quick Arabic," where your host Omega Ba guides you through an illuminating conversation featuring two diverse guests: one thriving in the vibrant culture of an Arabic household, and another embarking on the Arabic learning journey from a different perspective. Through heartfelt stories and practical advice, listeners are invited to embark on a captivating journey through the intricate pathways of Arabic acquisition.
+
+In this episode, our guests delve deep into their personal and academic motivations for mastering Arabic, recounting their most memorable encounters and sharing the valuable lessons they've learned along the way.
+
+Join us as we explore the allure of language immersion, the challenges of linguistic adaptation, and the joys of cultural discovery. Whether you're just beginning your Arabic journey or seeking to deepen your understanding, this episode offers a rich tapestry of experiences and strategies to inspire and guide you on your own path to Arabic mastery.
+
+
+
 
 
 ## 📢 Call to Action
