@@ -17,7 +17,6 @@
   * [🦜 References](#-references)
 
 <!---toc end-->
-
 ## Omega Ba 
 
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
