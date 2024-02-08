@@ -32,16 +32,6 @@ while completing the project.
 
 ## 🏁 " Quick Arabic" will delve into the experince of learning arabic in an immersive setting
 
-TODO: Provide a compelling sentence that summarizes and pitches your podcast
-episode. hello
-
-## 🔬 Show Details
-
-TODO: Provide all of the required details for your podcast episode.
-
-TODO: Make sure that your title follows the format `[Name of Guest] on [Name of
-Topic]`.
-
 - **Title**: Quick Arabic
 - **Host**: Omega Ba
 - **Guest**: An Arabic student who lives in an arabic speaking enviornment 
@@ -51,9 +41,11 @@ Topic]`.
 
 TODO: Provide a list of of at least three objectives for the podcast episode.
 
-- **Objective One**:
-- **Objective Two**:
-- **Objective Three**:
+ Explore the benefits and challenges of learning Arabic in an immersive environment.
+ Provide practical advice and strategies for Arabic language learners.
+ Highlight the diverse experiences and motivations of Arabic learners.
+
+
 
 ## 📚 Sample Questions
 
@@ -63,13 +55,16 @@ ask the guest.
 TODO: Provide a justification for why asking this question will achieve one of
 the stated objectives for the podcast episode.
 
-- **Question One**:
-- **Question Two**:
-- **Question Three**:
+- **Question One**:What are some unique challenges you've faced while learning Arabic in an immersive environment?
+- **Question Two**: How do you maintain motivation and consistency in your Arabic learning journey?
+- **Question Three**:Can you share a memorable experience that highlights the cultural richness of the Arabic language?
 
-- **Justification for Question One**:
-- **Justification for Question Two**:
-- **Justification for Question Three**:
+- **Justification for Question One**:This question aims to uncover specific obstacles faced by learners in immersive settings, contributing to Objective One.
+
+- **Justification for Question Two**:This question addresses practical strategies for language acquisition, aligning with Objective Two.
+
+- **Justification for Question Three**: By eliciting personal anecdotes, this question enriches the discussion on diverse motivations for learning Arabic, supporting Objective Three.
+
 
 ## 🎉 Show Description
 
@@ -85,9 +80,9 @@ Join us as we explore the allure of language immersion, the challenges of lingui
 
 ## 📢 Call to Action
 
-TODO: After a person listens to this episode what do you want them to do?
+Explore additional resources on Arabic language learning.
+- Connect with fellow language enthusiasts and share your own experiences and tips.
 
-TODO: Write at least two sentences that explain the call to action for this episode.
 
 ## 🦜 References
 
@@ -97,7 +92,7 @@ conference proceedings that you studied when preparing this proposal.
 TODO: Make sure that you use correctly formatted Markdown links to the
 references that you consulted when writing this show proposal.
 
-- **Reference One**:
+- **Reference One**:https://allegheny.edu/academics/programs/
 - **Reference Two**:
 - **Reference Three**:
 
