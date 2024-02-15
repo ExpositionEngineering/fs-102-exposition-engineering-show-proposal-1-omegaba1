@@ -91,9 +91,9 @@ conference proceedings that you studied when preparing this proposal.
 TODO: Make sure that you use correctly formatted Markdown links to the
 references that you consulted when writing this show proposal.
 
-- **Reference One**:https://allegheny.edu/academics/programs/
-- **Reference Two**:
-- **Reference Three**:
+- **Reference One**:<https://allegheny.edu/academics/programs/>
+- **Reference Two**:<https://www.immersionarabic.com/>
+- **Reference Three**:(https://www.mezzoguild.com/how-to-start-learning-arabic/)
 
 TODO: If you used any type of artificial intelligence (AI) writing assistant
 tools, please add an additional paragraph that explains clearly specific tools
