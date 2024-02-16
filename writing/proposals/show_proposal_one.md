@@ -24,7 +24,11 @@
 
 I adhered to the Allegheny College Honor Code while completing this project.
 
-## 🏁 " Quick Arabic" will delve into the experince of learning arabic in an immersive setting
+## 🏁 One Sentence Pitch
+
+" Quick Arabic" will delve into the experince of learning arabic in an immersive setting
+
+## 🔬 Show Details
 
 - **Title**: Quick Arabic
 - **Host**: Omega Ba
@@ -40,15 +44,11 @@ Highlight the diverse experiences and motivations of Arabic learners.
 ## 📚 Sample Questions
 
 - **Question One**:What are some unique challenges you've faced while learning Arabic in an immersive environment?
-
 - **Question Two**: How do you maintain motivation and consistency in your Arabic learning journey?
-
 - **Question Three**:Can you share a memorable experience that highlights the cultural richness of the Arabic language?
 
 - **Justification for Question One**:This question aims to uncover specific obstacles faced by learners in immersive settings, contributing to Objective One.
-
 - **Justification for Question Two**:This question addresses practical strategies for language acquisition, aligning with Objective Two.
-
 - **Justification for Question Three**: By eliciting personal anecdotes, this question enriches the discussion on diverse motivations for learning Arabic, supporting Objective Three.
 
 ## 🎉 Show Description
@@ -61,11 +61,12 @@ Join us as we explore the allure of language immersion, the challenges of lingui
 
 ## 📢 Call to Action
 
-Explore additional resources on Arabic language learning.
- Connect with fellow language enthusiasts and share your own experiences and tips.
+- Explore additional resources on Arabic language learning. Connect with fellow language enthusiasts and share your own experiences and tips.
 
 ## 🦜 References
 
 - **Reference One**: <https://allegheny.edu/academics/programs/>
+
 - **Reference Two**: <https://www.immersionarabic.com/>
+
 - **Reference Three**: <https://www.mezzoguild.com/how-to-start-learning-arabic/>
