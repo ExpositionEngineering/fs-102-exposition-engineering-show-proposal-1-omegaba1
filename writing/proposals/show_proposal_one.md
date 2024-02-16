@@ -20,6 +20,8 @@
 
 ## Omega Ba
 
+## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
+
 I adhered to the Allegheny College Honor Code while completing this project.
 
 ## 🏁 " Quick Arabic" will delve into the experince of learning arabic in an immersive setting
@@ -61,7 +63,7 @@ Join us as we explore the allure of language immersion, the challenges of lingui
 ## 📢 Call to Action
 
 Explore additional resources on Arabic language learning.
-- Connect with fellow language enthusiasts and share your own experiences and tips.
+ Connect with fellow language enthusiasts and share your own experiences and tips.
 
 
 ## 🦜 References
