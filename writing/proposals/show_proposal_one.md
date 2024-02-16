@@ -21,7 +21,7 @@
 
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
 
-I adhered to the Allegheny College honor code while completing this project.
+I adhered to the Allegheny College Honor Code while completing this project.
 
 
 
