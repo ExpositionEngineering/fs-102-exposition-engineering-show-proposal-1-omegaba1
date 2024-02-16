@@ -84,13 +84,6 @@ Explore additional resources on Arabic language learning.
 
 
 ## 🦜 References
-
-TODO: Please reference at least three web sites or articles from a journal or a
-conference proceedings that you studied when preparing this proposal.
-
-TODO: Make sure that you use correctly formatted Markdown links to the
-references that you consulted when writing this show proposal.
-
 - **Reference One**:<https://allegheny.edu/academics/programs/>
 - **Reference Two**:<https://www.immersionarabic.com/>
 - **Reference Three**:(https://www.mezzoguild.com/how-to-start-learning-arabic/)
