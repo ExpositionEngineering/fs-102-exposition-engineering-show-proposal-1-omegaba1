@@ -41,15 +41,10 @@ I adhered to the Allegheny College Honor Code while completing this project.
 ## 📚 Sample Questions
 
 - **Question One**:What are some unique challenges you've faced while learning Arabic in an immersive environment?
-
 - **Question Two**: How do you maintain motivation and consistency in your Arabic learning journey?
-
 - **Question Three**:Can you share a memorable experience that highlights the cultural richness of the Arabic language?
-
 - **Justification for Question One**:This question aims to uncover specific obstacles faced by learners in immersive settings, contributing to Objective One.
-
 - **Justification for Question Two**:This question addresses practical strategies for language acquisition, aligning with Objective Two.
-
 - **Justification for Question Three**: By eliciting personal anecdotes, this question enriches the discussion on diverse motivations for learning Arabic, supporting Objective Three.
 
 
