@@ -33,9 +33,9 @@ I adhered to the Allegheny College Honor Code while completing this project.
 
 ## 📝 Show Objectives
 
- Explore the benefits and challenges of learning Arabic in an immersive environment.
- Provide practical advice and strategies for Arabic language learners.
- Highlight the diverse experiences and motivations of Arabic learners.
+Explore the benefits and challenges of learning Arabic in an immersive environment.
+Provide practical advice and strategies for Arabic language learners.
+Highlight the diverse experiences and motivations of Arabic learners.
 
 ## 📚 Sample Questions
 
@@ -64,8 +64,8 @@ Join us as we explore the allure of language immersion, the challenges of lingui
 Explore additional resources on Arabic language learning.
  Connect with fellow language enthusiasts and share your own experiences and tips.
 
-
 ## 🦜 References
-- **Reference One**:<https://allegheny.edu/academics/programs/>
-- **Reference Two**:<https://www.immersionarabic.com/>
-- **Reference Three**:<https://www.mezzoguild.com/how-to-start-learning-arabic/>
+
+- **Reference One**: <https://allegheny.edu/academics/programs/>
+- **Reference Two**: <https://www.immersionarabic.com/>
+- **Reference Three**: <https://www.mezzoguild.com/how-to-start-learning-arabic/>
