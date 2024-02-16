@@ -38,8 +38,6 @@ while completing the project.
 
 ## 📝 Show Objectives
 
-TODO: Provide a list of of at least three objectives for the podcast episode.
-
  Explore the benefits and challenges of learning Arabic in an immersive environment.
  Provide practical advice and strategies for Arabic language learners.
  Highlight the diverse experiences and motivations of Arabic learners.
@@ -67,7 +65,7 @@ the stated objectives for the podcast episode.
 
 ## 🎉 Show Description
 
-TODO: Step into the fascinating world of language learning with "Quick Arabic," where your host Omega Ba guides you through an illuminating conversation featuring two diverse guests: one thriving in the vibrant culture of an Arabic household, and another embarking on the Arabic learning journey from a different perspective. Through heartfelt stories and practical advice, listeners are invited to embark on a captivating journey through the intricate pathways of Arabic acquisition.
+Step into the fascinating world of language learning with "Quick Arabic," where your host Omega Ba guides you through an illuminating conversation featuring two diverse guests: one thriving in the vibrant culture of an Arabic household, and another embarking on the Arabic learning journey from a different perspective. Through heartfelt stories and practical advice, listeners are invited to embark on a captivating journey through the intricate pathways of Arabic acquisition.
 
 In this episode, our guests delve deep into their personal and academic motivations for mastering Arabic, recounting their most memorable encounters and sharing the valuable lessons they've learned along the way.
 
@@ -88,9 +86,4 @@ Explore additional resources on Arabic language learning.
 - **Reference Two**:<https://www.immersionarabic.com/>
 - **Reference Three**:(https://www.mezzoguild.com/how-to-start-learning-arabic/)
 
-TODO: If you used any type of artificial intelligence (AI) writing assistant
-tools, please add an additional paragraph that explains clearly specific tools
-you used, how you used them, and what content they helped you to brainstorm,
-write, or revise. While the use of AI writing assistants is permitted as a part
-of the Exposition Engineering course, it is important for you to clearly cite
-all of the tools that you used to create the content in this proposal.
+
