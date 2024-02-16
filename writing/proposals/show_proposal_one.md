@@ -32,14 +32,13 @@ I adhered to the Allegheny College Honor Code while completing this project.
 
 - **Title**: Quick Arabic
 - **Host**: Omega Ba
-- **Guest**: An Arabic student who lives in an arabic speaking enviornment 
-- **Guest**: An Arabic student who doesnt live in an arabic speaking enviornment.
+- **Guest**: An Arabic student who lives in an arabic speaking enviornment an or An Arabic student who doesnt live in an arabic speaking enviornment.
 
 ## 📝 Show Objectives
 
-Explore the benefits and challenges of learning Arabic in an immersive environment.
-Provide practical advice and strategies for Arabic language learners.
-Highlight the diverse experiences and motivations of Arabic learners.
+- **Objective One**: Explore the benefits and challenges of learning Arabic in an immersive environment.
+- **Objective Two**: Provide practical advice and strategies for Arabic language learners.
+- **Objective Three**: Highlight the diverse experiences and motivations of Arabic learners.
 
 ## 📚 Sample Questions
 
