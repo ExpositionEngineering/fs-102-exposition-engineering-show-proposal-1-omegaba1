@@ -6,8 +6,6 @@
 
 * [Show Proposal One](#show-proposal-one)
   * [✨ Table of Contents](#-table-of-contents)
-  * [Gregory M. Kapfhammer](#gregory-m-kapfhammer)
-  * [Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."](#re-type-the-sentence-i-adhered-to-the-allegheny-college-honor-code-while-completing-this-project)
   * [🏁 One Sentence Pitch](#-one-sentence-pitch)
   * [🔬 Show Details](#-show-details)
   * [📝 Show Objectives](#-show-objectives)
@@ -43,7 +41,9 @@ I adhered to the Allegheny College Honor Code while completing this project.
 ## 📚 Sample Questions
 
 - **Question One**:What are some unique challenges you've faced while learning Arabic in an immersive environment?
+
 - **Question Two**: How do you maintain motivation and consistency in your Arabic learning journey?
+
 - **Question Three**:Can you share a memorable experience that highlights the cultural richness of the Arabic language?
 
 - **Justification for Question One**:This question aims to uncover specific obstacles faced by learners in immersive settings, contributing to Objective One.
@@ -74,6 +74,6 @@ Explore additional resources on Arabic language learning.
 ## 🦜 References
 - **Reference One**:<https://allegheny.edu/academics/programs/>
 - **Reference Two**:<https://www.immersionarabic.com/>
-- **Reference Three**:(https://www.mezzoguild.com/how-to-start-learning-arabic/)
+- **Reference Three**:<https://www.mezzoguild.com/how-to-start-learning-arabic/>
 
 
