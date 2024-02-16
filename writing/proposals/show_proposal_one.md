@@ -6,6 +6,8 @@
 
 * [Show Proposal One](#show-proposal-one)
   * [✨ Table of Contents](#-table-of-contents)
+  * [Gregory M. Kapfhammer](#gregory-m-kapfhammer)
+  * [Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."](#re-type-the-sentence-i-adhered-to-the-allegheny-college-honor-code-while-completing-this-project)
   * [🏁 One Sentence Pitch](#-one-sentence-pitch)
   * [🔬 Show Details](#-show-details)
   * [📝 Show Objectives](#-show-objectives)
@@ -15,13 +17,10 @@
   * [🦜 References](#-references)
 
 <!---toc end-->
-## Omega Ba 
 
-## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
+## Omega Ba
 
 I adhered to the Allegheny College Honor Code while completing this project.
-
-
 
 ## 🏁 " Quick Arabic" will delve into the experince of learning arabic in an immersive setting
 
@@ -36,15 +35,18 @@ I adhered to the Allegheny College Honor Code while completing this project.
  Provide practical advice and strategies for Arabic language learners.
  Highlight the diverse experiences and motivations of Arabic learners.
 
-
-
 ## 📚 Sample Questions
 
 - **Question One**:What are some unique challenges you've faced while learning Arabic in an immersive environment?
+
 - **Question Two**: How do you maintain motivation and consistency in your Arabic learning journey?
+
 - **Question Three**:Can you share a memorable experience that highlights the cultural richness of the Arabic language?
+
 - **Justification for Question One**:This question aims to uncover specific obstacles faced by learners in immersive settings, contributing to Objective One.
+
 - **Justification for Question Two**:This question addresses practical strategies for language acquisition, aligning with Objective Two.
+
 - **Justification for Question Three**: By eliciting personal anecdotes, this question enriches the discussion on diverse motivations for learning Arabic, supporting Objective Three.
 
 
@@ -56,10 +58,6 @@ In this episode, our guests delve deep into their personal and academic motivati
 
 Join us as we explore the allure of language immersion, the challenges of linguistic adaptation, and the joys of cultural discovery. Whether you're just beginning your Arabic journey or seeking to deepen your understanding, this episode offers a rich tapestry of experiences and strategies to inspire and guide you on your own path to Arabic mastery.
 
-
-
-
-
 ## 📢 Call to Action
 
 Explore additional resources on Arabic language learning.
@@ -70,5 +68,3 @@ Explore additional resources on Arabic language learning.
 - **Reference One**:<https://allegheny.edu/academics/programs/>
 - **Reference Two**:<https://www.immersionarabic.com/>
 - **Reference Three**:<https://www.mezzoguild.com/how-to-start-learning-arabic/>
-
-
