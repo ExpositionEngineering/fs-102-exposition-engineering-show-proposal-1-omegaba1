@@ -21,7 +21,7 @@
 
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
 
-TODO: I adhered to the Allegheny College honor code while completing this project.
+I adhered to the Allegheny College honor code while completing this project.
 
 
 
@@ -45,12 +45,6 @@ while completing the project.
 
 
 ## 📚 Sample Questions
-
-TODO: Provide a list of of at least three sample questions that the host will
-ask the guest.
-
-TODO: Provide a justification for why asking this question will achieve one of
-the stated objectives for the podcast episode.
 
 - **Question One**:What are some unique challenges you've faced while learning Arabic in an immersive environment?
 - **Question Two**: How do you maintain motivation and consistency in your Arabic learning journey?
