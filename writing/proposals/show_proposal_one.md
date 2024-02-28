@@ -31,7 +31,9 @@ I adhered to the Allegheny College Honor Code while completing this project.
 ## 🔬 Show Details
 
 - **Title**: Quick Arabic
+
 - **Host**: Omega Ba
+
 - **Guest**: An Arabic student who lives in an arabic speaking enviornment an or An Arabic student who doesnt live in an arabic speaking enviornment.
 
 ## 📝 Show Objectives
